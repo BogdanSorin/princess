@@ -25,3 +25,12 @@ img {
 img:hover {
   transform: rotate(540deg);
 }
+h1 {
+  color:crimson;
+  font-size: 2.5rem; font-style: italic;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+}
